@@ -1,7 +1,7 @@
 MultipartAndroid
 ================
 
-Upload any file from your device sd card to server using multiparts.
+Upload image and video files from your device sd card to server using multiparts.
 
 Just add the jar file from 'bin' directory to your project 'lib' forlder and 
 see 'MultiPartSampleActivity.java' for sample call.
